@@ -1,2 +1,1 @@
-submittion form
 This is a simple web-based submission form project designed to collect user input through basic form fields. The project focuses on practicing frontend development skills such as form creation, styling, and basic validation. It provides a clean and user-friendly interface for submitting data. 
